@@ -1,6 +1,13 @@
 # REST-API-BACKEND
 Express Js, Node Js
 
+  David Lin Full Stack application
+  https://www.linkedin.com/in/davidlin98/
+  <br>
+  <a href="mailto:david@codingbydave.com"> david@codingbydave.com </a>
+  <br>
+  <a tel="+16048288683"> 604 828 8683 </a>
+
 to start
 
 1. Npm install
